@@ -1,0 +1,6 @@
+D:\KienTruc\onthi1\Bussi\bin\Debug\Bussi.dll
+D:\KienTruc\onthi1\Bussi\bin\Debug\Bussi.pdb
+D:\KienTruc\onthi1\Bussi\obj\Debug\Bussi.csproj.AssemblyReference.cache
+D:\KienTruc\onthi1\Bussi\obj\Debug\Bussi.csproj.CoreCompileInputs.cache
+D:\KienTruc\onthi1\Bussi\obj\Debug\Bussi.dll
+D:\KienTruc\onthi1\Bussi\obj\Debug\Bussi.pdb

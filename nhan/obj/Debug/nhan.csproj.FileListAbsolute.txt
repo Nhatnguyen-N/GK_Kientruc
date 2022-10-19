@@ -1,0 +1,14 @@
+D:\KienTruc\onthi1\nhan\obj\Debug\nhan.csproj.AssemblyReference.cache
+D:\KienTruc\onthi1\nhan\obj\Debug\nhan.csproj.SuggestedBindingRedirects.cache
+D:\KienTruc\onthi1\nhan\obj\Debug\nhan.Form1.resources
+D:\KienTruc\onthi1\nhan\obj\Debug\nhan.Properties.Resources.resources
+D:\KienTruc\onthi1\nhan\obj\Debug\nhan.csproj.GenerateResource.cache
+D:\KienTruc\onthi1\nhan\obj\Debug\nhan.csproj.CoreCompileInputs.cache
+D:\KienTruc\onthi1\nhan\bin\Debug\nhan.exe.config
+D:\KienTruc\onthi1\nhan\bin\Debug\nhan.exe
+D:\KienTruc\onthi1\nhan\bin\Debug\nhan.pdb
+D:\KienTruc\onthi1\nhan\bin\Debug\Bussi.dll
+D:\KienTruc\onthi1\nhan\bin\Debug\Bussi.pdb
+D:\KienTruc\onthi1\nhan\obj\Debug\nhan.csproj.CopyComplete
+D:\KienTruc\onthi1\nhan\obj\Debug\nhan.exe
+D:\KienTruc\onthi1\nhan\obj\Debug\nhan.pdb

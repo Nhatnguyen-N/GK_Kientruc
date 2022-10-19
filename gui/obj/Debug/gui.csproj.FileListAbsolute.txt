@@ -1,0 +1,14 @@
+D:\KienTruc\onthi1\gui\bin\Debug\gui.exe.config
+D:\KienTruc\onthi1\gui\bin\Debug\gui.exe
+D:\KienTruc\onthi1\gui\bin\Debug\gui.pdb
+D:\KienTruc\onthi1\gui\bin\Debug\Bussi.dll
+D:\KienTruc\onthi1\gui\bin\Debug\Bussi.pdb
+D:\KienTruc\onthi1\gui\obj\Debug\gui.csproj.AssemblyReference.cache
+D:\KienTruc\onthi1\gui\obj\Debug\gui.csproj.SuggestedBindingRedirects.cache
+D:\KienTruc\onthi1\gui\obj\Debug\gui.Form1.resources
+D:\KienTruc\onthi1\gui\obj\Debug\gui.Properties.Resources.resources
+D:\KienTruc\onthi1\gui\obj\Debug\gui.csproj.GenerateResource.cache
+D:\KienTruc\onthi1\gui\obj\Debug\gui.csproj.CoreCompileInputs.cache
+D:\KienTruc\onthi1\gui\obj\Debug\gui.csproj.CopyComplete
+D:\KienTruc\onthi1\gui\obj\Debug\gui.exe
+D:\KienTruc\onthi1\gui\obj\Debug\gui.pdb
